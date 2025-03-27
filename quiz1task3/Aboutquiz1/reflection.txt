@@ -1,0 +1,4 @@
+1. Describe what challenges you faced during this quiz and how you resolved them. 
+2. Explain whether AI tools were useful in helping you learn Java constructs that were new to you in this quiz. 
+
+As a beginner in the programming world 
