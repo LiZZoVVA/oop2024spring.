@@ -1,4 +1,9 @@
 1. Describe what challenges you faced during this quiz and how you resolved them. 
 2. Explain whether AI tools were useful in helping you learn Java constructs that were new to you in this quiz. 
 
-As a beginner in the programming world 
+As a beginner in the programming world, understandibly, there were some problems that I faced during the quiz. For example, rightly structuring
+files and folders so java would understand how to correctly use and combine different parts of code using path, which I had to provide using
+import, in a different file. In order to understand how packages work and how I should have solved problems I used internet resouces and mainly
+such AI tools like Chat GPT, DeepSeek, and Claude, which were helpful a lot, as they were useful providing new information and step-by-step
+explanation of what my mistakes were and why they were incorrect untill I would finally understand and find the solution. In the end, I managed
+to solve the problems and learn something new during the quiz and packages in general, in which AI offered me a great assistance.
